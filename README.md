@@ -1,2 +1,2 @@
 # tuto_repo
-the first repo created in my fullstack web developer onsite bootcamp.
+this repo was created for the purpose of teaching
